@@ -8,6 +8,7 @@
 
 * [Задание 1.](https://github.com/PersDep/python-intro-2021/blob/main/HW01-basics-and-collections.ipynb) Дедлайн: 22.09.2021 16:00
 * [Задание 2.](https://github.com/PersDep/python-intro-2021/blob/main/HW02-collections-and-functions.ipynb) Дедлайн: 29.09.2021 16:00
+* [Задание 3.](https://github.com/PersDep/python-intro-2021/blob/main/HW03-OOP-funcs.ipynb) Дедлайн: 06.10.2021 16:00
 
 ## Полезные ссылки
 
