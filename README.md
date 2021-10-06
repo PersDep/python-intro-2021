@@ -32,3 +32,4 @@
 * Hackerrank для тех, кто хочет что-то ещё порешать: https://www.hackerrank.com/domains/python
 * Экосистема вокруг Python: https://github.com/vinta/awesome-python
 * WTF PYTHON: https://github.com/satwikkansal/wtfpython
+* Built-ins: https://docs.python.org/3/library/functions.html
