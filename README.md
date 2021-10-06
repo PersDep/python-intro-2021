@@ -35,3 +35,6 @@
 * Built-ins: https://docs.python.org/3/library/functions.html
 * Functools: https://docs.python.org/3/library/functools.html
 * Exceptions hierarchy: https://docs.python.org/3/library/exceptions.html
+
+## Credits:
+* http://uneex.org/
