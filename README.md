@@ -36,6 +36,7 @@
 * WTF PYTHON: https://github.com/satwikkansal/wtfpython
 * Built-ins: https://docs.python.org/3/library/functions.html
 * Functools: https://docs.python.org/3/library/functools.html
+* Itertools: https://docs.python.org/3/library/itertools.html
 * Exceptions hierarchy: https://docs.python.org/3/library/exceptions.html
 
 ## Credits:
