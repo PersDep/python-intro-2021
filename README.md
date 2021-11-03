@@ -12,6 +12,7 @@
 * [Задание 4.](https://github.com/PersDep/python-intro-2021/blob/main/HW04-OOP+.ipynb) Дедлайн: 13.10.2021 16:00
 * [Задание 5.](https://github.com/PersDep/python-intro-2021/blob/main/HW05-OOP++-and-exceptions.ipynb) Дедлайн: 27.10.2021 16:00
 * [Задание 6.](https://github.com/PersDep/python-intro-2021/blob/main/HW06-iterators.ipynb) Дедлайн: 03.11.2021 16:00
+* [Задание 7.](https://github.com/PersDep/python-intro-2021/blob/main/HW07-generators.ipynb) Дедлайн: 10.11.2021 16:00
 
 ## Полезные ссылки
 
