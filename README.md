@@ -39,6 +39,7 @@
 * Functools: https://docs.python.org/3/library/functools.html
 * Itertools: https://docs.python.org/3/library/itertools.html
 * Exceptions hierarchy: https://docs.python.org/3/library/exceptions.html
+* Visual Studio Code: https://code.visualstudio.com/
 
 ## Credits:
 * http://uneex.org/
