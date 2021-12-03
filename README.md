@@ -15,6 +15,7 @@
 * [Задание 7.](https://github.com/PersDep/python-intro-2021/blob/main/HW07-generators.ipynb) Дедлайн: 17.11.2021 16:00
 * [Задание 8.](https://github.com/PersDep/python-intro-2021/blob/main/HW08-iterator-ast.ipynb) Дедлайн: 24.11.2021 16:00
 * [Задание 9.](https://github.com/PersDep/python-intro-2021/blob/main/HW09-collections-datetime.ipynb) Дедлайн: 01.12.2021 16:00
+* [Задание 10.](https://github.com/PersDep/python-intro-2021/blob/main/HW10-async.ipynb) Дедлайн: 08.12.2021 16:00
 
 ## Полезные ссылки
 
